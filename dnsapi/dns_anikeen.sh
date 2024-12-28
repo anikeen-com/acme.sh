@@ -2,9 +2,11 @@
 # shellcheck disable=SC2034
 
 dns_anikeen_info='Anikeen Cloud
-Site: https://anikeen.cloud
+Site: Anikeen.cloud
+Docs: github.com/acmesh-official/acme.sh/wiki/dnsapi2#dns_anikeen
 Options:
  ANIKEEN_API_KEY API Key
+Issues: github.com/acmesh-official/acme.sh/issues/6175
 Author: Maurice Preuß <maurice@anikeen.com>
 '
 
